@@ -1,6 +1,6 @@
 <header>
         <h1 align="center">Hello World.....👋</h1>
-        <h2 align="center">I'am Lokesh Vyavhare</h2>
+        <h2 align="center">I'm Lokesh Vyavhare</h2>
     </header>
     <main>
         <div align="center"><img align="center" src ='https://ouch-cdn2.icons8.com/lds3LvJKTzLzAwzAd1RRuIaaxF442Twkz_ub0sRycsg/rs:fit:256:160/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM3/L2QwN2ZmNWI0LWE4/OGMtNGZhMi04MzAz/LTI2MDhiOGI0YzQw/YS5zdmc.png' />
