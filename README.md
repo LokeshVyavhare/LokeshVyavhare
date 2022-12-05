@@ -7,7 +7,8 @@
         <br /></div>
         <p>I'm Full Stack Web developer with expertizing knowledge in MERN, ES6, HTML5, CSS Advanced, Chakra UI. With problem solving attitude I always like to take on challeges and try to learn something new. I like to do task with perfection and max efficiency.</p>
     </main>
-## Connect with me:
+    
+<h1>Connect with me:</h1>
 
 <div align="center">
         <a href="https://www.linkedin.com/in/lokesh-vyavhare-b242b2243/"><img width="50px" src="https://img.icons8.com/color/2x/linkedin.png"/><p float="left"> LinkedIn </p></a>
