@@ -1,11 +1,11 @@
 <header>
-        <h1 align="center">Hello World.....👋. I'm Lokesh Vyavhare</h1>
+        <h1 align="center">"Hello World".....👋. I'm Lokesh Vyavhare</h1>
         
 </header>
     <main>
         <div align="center"><img align="center" src ='https://ouch-cdn2.icons8.com/lds3LvJKTzLzAwzAd1RRuIaaxF442Twkz_ub0sRycsg/rs:fit:256:160/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM3/L2QwN2ZmNWI0LWE4/OGMtNGZhMi04MzAz/LTI2MDhiOGI0YzQw/YS5zdmc.png' />
         <br /></div>
-        <p>I'm Full Stack Web developer with expertizing knowledge in MERN, ES6, HTML5, CSS Advanced, Chakra UI. With problem solving attitude I always like to take on challeges and try to learn something new. I like to do task with perfection and max efficiency.</p>
+        <p align="center">I'm Full Stack Web developer with expertizing knowledge in MERN, ES6, HTML5, CSS Advanced, Chakra UI. With problem solving attitude I always like to take on challeges and try to learn something new. I like to do task with perfection and max efficiency.</p>
     </main>
     
 <h1>Connect with me:</h1>
