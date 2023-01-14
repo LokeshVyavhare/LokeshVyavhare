@@ -67,7 +67,7 @@
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshvyavhare&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api?username=lokeshvyavhare&theme=algolia">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=lokeshvyavhare&theme=algolia"> -->
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshvyavhare&theme=algolia" />
 
 	
